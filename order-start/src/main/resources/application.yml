@@ -7,7 +7,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: xiaoxiong
-    url: jdbc:mysql://10.237.161.213:3306/api_gateway? useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    url: jdbc:mysql://10.237.161.213:3306/product? useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 eureka:
   instance:
     prefer-ip-address: true #用IP链接 用处不在同一台服务器上

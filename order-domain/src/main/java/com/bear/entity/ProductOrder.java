@@ -3,7 +3,7 @@ package com.bear.entity;
 import java.util.Date;
 
 public class ProductOrder {
-    private int id;
+    private String id;
     private String productName;
     private String tradeNo;
     private String price;
@@ -11,11 +11,11 @@ public class ProductOrder {
     private String userId;
     private String userName;
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
