@@ -11,5 +11,19 @@
 
     <artifactId>order-service-impl</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.bear</groupId>
+            <artifactId>order-start</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.bear</groupId>
+            <artifactId>order-domain</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.bear</groupId>
+            <artifactId>order-service</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
