@@ -5,9 +5,9 @@
     <file url="file://$PROJECT_DIR$/order-domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-domain/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service-impl" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-start" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-start/src/main/java" charset="UTF-8" />
   </component>
